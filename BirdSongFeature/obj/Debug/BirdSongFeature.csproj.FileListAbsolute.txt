@@ -1,4 +1,4 @@
-﻿C:\Users\morishita\Documents\workspace\programing_project\C_charp\lib\BirdSongFeature\BirdSongFeature\bin\Debug\BirdSongFeature.dll
+C:\Users\morishita\Documents\workspace\programing_project\C_charp\lib\BirdSongFeature\BirdSongFeature\bin\Debug\BirdSongFeature.dll
 C:\Users\morishita\Documents\workspace\programing_project\C_charp\lib\BirdSongFeature\BirdSongFeature\bin\Debug\BirdSongFeature.pdb
 C:\Users\morishita\Documents\workspace\programing_project\C_charp\lib\BirdSongFeature\BirdSongFeature\bin\Debug\Signal.dll
 C:\Users\morishita\Documents\workspace\programing_project\C_charp\lib\BirdSongFeature\BirdSongFeature\bin\Debug\Sound.dll
@@ -12,3 +12,16 @@ C:\Users\morishita\Documents\workspace\programing_project\C_charp\lib\BirdSongFe
 C:\Users\morishita\Documents\workspace\programing_project\C_charp\lib\BirdSongFeature\BirdSongFeature\bin\Debug\PatternRecognition.dll
 C:\Users\morishita\Documents\workspace\programing_project\C_charp\lib\BirdSongFeature\BirdSongFeature\bin\Debug\PatternRecognition.pdb
 C:\Users\morishita\Documents\workspace\programing_project\C_charp\lib\BirdSongFeature\BirdSongFeature\bin\Debug\PatternRecognition.xml
+C:\Users\morishita\Documents\workspace\programing_project\C_sharp\lib\BirdSongFeature\BirdSongFeature\bin\Debug\BirdSongFeature.dll
+C:\Users\morishita\Documents\workspace\programing_project\C_sharp\lib\BirdSongFeature\BirdSongFeature\bin\Debug\BirdSongFeature.pdb
+C:\Users\morishita\Documents\workspace\programing_project\C_sharp\lib\BirdSongFeature\BirdSongFeature\bin\Debug\PatternRecognition.dll
+C:\Users\morishita\Documents\workspace\programing_project\C_sharp\lib\BirdSongFeature\BirdSongFeature\bin\Debug\Signal.dll
+C:\Users\morishita\Documents\workspace\programing_project\C_sharp\lib\BirdSongFeature\BirdSongFeature\bin\Debug\Sound.dll
+C:\Users\morishita\Documents\workspace\programing_project\C_sharp\lib\BirdSongFeature\BirdSongFeature\bin\Debug\PatternRecognition.pdb
+C:\Users\morishita\Documents\workspace\programing_project\C_sharp\lib\BirdSongFeature\BirdSongFeature\bin\Debug\Signal.pdb
+C:\Users\morishita\Documents\workspace\programing_project\C_sharp\lib\BirdSongFeature\BirdSongFeature\bin\Debug\Signal.xml
+C:\Users\morishita\Documents\workspace\programing_project\C_sharp\lib\BirdSongFeature\BirdSongFeature\bin\Debug\Sound.pdb
+C:\Users\morishita\Documents\workspace\programing_project\C_sharp\lib\BirdSongFeature\BirdSongFeature\bin\Debug\Sound.xml
+C:\Users\morishita\Documents\workspace\programing_project\C_sharp\lib\BirdSongFeature\BirdSongFeature\obj\Debug\BirdSongFeature.csprojResolveAssemblyReference.cache
+C:\Users\morishita\Documents\workspace\programing_project\C_sharp\lib\BirdSongFeature\BirdSongFeature\obj\Debug\BirdSongFeature.dll
+C:\Users\morishita\Documents\workspace\programing_project\C_sharp\lib\BirdSongFeature\BirdSongFeature\obj\Debug\BirdSongFeature.pdb
